@@ -1,10 +1,3 @@
-Sure commander!
-Below is a **complete, professional, publication-ready GitHub README.md** for your project **“Comments Mining With TF-IDF: The Inherent Bias and Its Removal”** based entirely on your research paper and the code you uploaded.
-
-You can copy–paste it directly into your README.md file.
-
----
-
 # 📘 **Comments Mining With TF-IDF: The Inherent Bias and Its Removal**
 
 This repository contains the research work, datasets, and implementation code for the project **“Comments Mining With TF-IDF: The Inherent Bias and Its Removal.”**
